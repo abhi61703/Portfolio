@@ -1,0 +1,30 @@
+
+body{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading{
+    text-align: center;
+    background-color: bisque;
+    vertical-align: flex;
+}
+
+.photo{
+    background-repeat: no-repeat;
+}
+.about{
+    margin: 7px;
+    background-color: bisque;
+    
+}
+
+.education{
+    margin: 7px;
+    background-color: bisque;
+}
+
+.projects{
+    margin: 7px;
+    background-color: bisque;
+}
